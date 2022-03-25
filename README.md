@@ -2,7 +2,7 @@
 
 将本项目fork或者上传至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.compernpro45/agfdfde.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pernpro45/agfdfde.git)
 
 ### heroku上部署v2ray
 
